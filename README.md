@@ -4,7 +4,7 @@
 - 🌱 Estudando JavaScript, com metas de TypeScript, React.js...
 - 😄 Pronouns: Ele/Dele
 
-<div style="display: inline_block"><br>
+<div style="display: flex"><br>
   <img align="center" alt="Art-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <!--<img align="center" alt="Art-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">-->
   <!--<img align="center" alt="Art-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">-->
