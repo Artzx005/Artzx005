@@ -13,7 +13,7 @@
   <img align="center" alt="Art-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 <br>
-<div>
+<div style="display:flex">
  <img height="180em" alt="Artzx_Status" src="https://github-readme-stats.vercel.app/api?username=Artzx005&show_icons=true&theme=tokyonight"/>
 <img height="180em" alt="Artzx_Status" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Artzx005&hide_progress=&theme=tokyonight"/>
 </div>
